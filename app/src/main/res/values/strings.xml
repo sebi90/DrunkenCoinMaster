@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrunkenCoinMaster</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="startButton">Start</string>
+    <string name="descriptionButton">Description</string>
+</resources>
